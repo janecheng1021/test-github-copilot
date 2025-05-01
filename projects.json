@@ -1,0 +1,7 @@
+{
+    "projects": [
+        { "name": "Issue 1", "status": "In Progress", "progress": 50 },
+        { "name": "Issue 2", "status": "Completed", "progress": 100 },
+        { "name": "Issue 3", "status": "Not Started", "progress": 0 }
+    ]
+}
