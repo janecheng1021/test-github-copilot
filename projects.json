@@ -1,7 +1,16 @@
 {
     "projects": [
-        { "name": "Issue 1", "status": "In Progress", "progress": 50 },
-        { "name": "Issue 2", "status": "Completed", "progress": 100 },
-        { "name": "Issue 3", "status": "Not Started", "progress": 0 }
+        {
+            "name": "user_controller.py",
+            "progress": 0
+        },
+        {
+            "name": "billing_service.js",
+            "progress": 0
+        },
+        {
+            "name": "report_generator.rb",
+            "progress": 0
+        }
     ]
 }
